@@ -1,0 +1,49 @@
+{
+    "DurationInYears": 1,
+    "AutoRenew": true,
+    "AdminContact": {
+        "FirstName": "John",
+        "LastName": "Doe",
+        "ContactType": "PERSON",
+        "OrganizationName": "Widget Co.",
+        "AddressLine1": "123 Main Street",
+        "AddressLine2": "",
+        "City": "Anytown",
+        "State": "PR",
+        "CountryCode": "US",
+        "ZipCode": "12345",
+        "PhoneNumber": "+1.1234567890",
+        "Email": "john.doe@example.com"
+    },
+    "RegistrantContact": {
+        "FirstName": "John",
+        "LastName": "Doe",
+        "ContactType": "PERSON",
+        "OrganizationName": "Widget Co.",
+        "AddressLine1": "123 Main Street",
+        "AddressLine2": "",
+        "City": "Anytown",
+        "State": "PR",
+        "CountryCode": "US",
+        "ZipCode": "12345",
+        "PhoneNumber": "+1.1234567890",
+        "Email": "john.doe@example.com"
+    },
+    "TechContact": {
+        "FirstName": "John",
+        "LastName": "Doe",
+        "ContactType": "PERSON",
+        "OrganizationName": "Widget Co.",
+        "AddressLine1": "123 Main Street",
+        "AddressLine2": "",
+        "City": "Anytown",
+        "State": "PR",
+        "CountryCode": "US",
+        "ZipCode": "12345",
+        "PhoneNumber": "+1.1234567890",
+        "Email": "john.doe@example.com"
+    },
+    "PrivacyProtectAdminContact": true,
+    "PrivacyProtectRegistrantContact": true,
+    "PrivacyProtectTechContact": true
+}
